@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "edu.umkc.jwolf76dev.lab1"
+        applicationId "edu.umkc.awilliams23.lab1"
         minSdkVersion 21
         targetSdkVersion 24
         versionCode 1
